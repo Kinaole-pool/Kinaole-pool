@@ -1,0 +1,39 @@
+{
+  "info": {
+    "url_png_icon_64x64": "",
+    "url_png_logo": "https://silktoad.mypinata.cloud/ipfs/QmagoTAAr2E9RkLUi7zLoFAXMEXN3VLdaWjch99Qb2fK3b?pinataGatewayToken=wBBfQl7aRP6efTbWHfYb6qlRMN-a_-s9EEKfwPADMaxSyVpDTKGkHQ4MmVk9ve-a",
+    "location": "Country, Continent",
+    "social": {
+      "twitter_handle": "",
+      "telegram_handle": "",
+      "facebook_handle": "",
+      "youtube_handle": "",
+      "twitch_handle": "",
+      "discord_handle": "",
+      "github_handle": ""
+    },
+    "company": {
+      "name": "",
+      "addr": "",
+      "city": "",
+      "country": "",
+      "company_id": "",
+      "vat_id": ""
+    },
+    "about": {
+      "me": "",
+      "server": "",
+      "company": ""
+    },
+    "rss": "http(s) url to valid RSS feed"
+  },
+  "telegram-admin-handle": [
+    ""
+  ],
+  "my-pool-ids": [
+    "610a0c8d254e6613963b00dbba1f92ad1d1caf8b6566f636e7d68bc6"
+  ],
+  "when-satured-then-recommend": [
+    "610a0c8d254e6613963b00dbba1f92ad1d1caf8b6566f636e7d68bc6"
+  ]
+}
