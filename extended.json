@@ -1,10 +1,10 @@
 {
   "info": {
     "url_png_icon_64x64": "",
-    "url_png_logo": "https://silktoad.mypinata.cloud/ipfs/QmagoTAAr2E9RkLUi7zLoFAXMEXN3VLdaWjch99Qb2fK3b?pinataGatewayToken=wBBfQl7aRP6efTbWHfYb6qlRMN-a_-s9EEKfwPADMaxSyVpDTKGkHQ4MmVk9ve-a",
+    "url_png_logo": "https://ipfs.io/ipfs/QmeYhvg8ppye8GKRrxV7r5KCocwDrj2qYUvSzWpMnAtS5c",
     "location": "Country, Continent",
     "social": {
-      "twitter_handle": "",
+      "twitter_handle": "https://x.com/MalamaProject",
       "telegram_handle": "",
       "facebook_handle": "",
       "youtube_handle": "",
@@ -37,3 +37,4 @@
     "610a0c8d254e6613963b00dbba1f92ad1d1caf8b6566f636e7d68bc6"
   ]
 }
+
