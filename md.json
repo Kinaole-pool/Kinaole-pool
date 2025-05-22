@@ -3,5 +3,5 @@
   "description": "Providing Resources for Maui Farmers",
   "ticker": "MLMA",
   "homepage": "https://www.malamacarbon.com/",
-  "extended": "https://kinaole-pool.github.io/Kinaole-pool/extended.json"
+  "extended": "https://raw.githubusercontent.com/Kinaole-pool/Malama/refs/heads/main/extended.json"
 }
